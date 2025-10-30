@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Ganesh Sangala</h1>
+<h1 align="center">Hi 👋, I'm Sai Ganesh</h1>
 <h3 align="center">A passionate Backend Developer from Hyderabad, India</h3>
 
 - 📫 How to reach me **sangalasaiganesh@gmail.com**
