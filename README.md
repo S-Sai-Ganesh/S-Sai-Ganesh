@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Ganesh</h1>
 <h3 align="center">A passionate Backend Developer from Hyderabad, India</h3>
 
-- 📫 How to reach me **sangalasaiganesh@gmail.com**
+- 📫 How to reach me **ganeshsai29101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
